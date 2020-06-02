@@ -16,5 +16,5 @@ If successful, it should output the following:
 > [INFO    ] Crow/0.1 server is running at 0.0.0.0:5000 using 8 threads \
 > [INFO    ] Call 'app.loglevel(crow::LogLevel::Warning)' to hide Info level logs. 
 
-Go to your browser http://0.0.0.0:5000/welcome, it should print out \
+Go to your browser http://0.0.0.0:5000/welcome, it should print out 
 > {"data":"Hello World."}
