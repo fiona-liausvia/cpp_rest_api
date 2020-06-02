@@ -10,7 +10,7 @@ To compile, run the following on the command line:
 > g++ main.cpp -o output -lboost_system -pthread 
 
 To run, type the following on the command line: 
-> ./output \
+> ./output 
 
 If successful, it should output the following:
 > [INFO    ] Crow/0.1 server is running at 0.0.0.0:5000 using 8 threads \
